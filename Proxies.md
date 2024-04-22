@@ -1,32 +1,63 @@
-[(https://nexus.fusion.proxy.ignorelist.com/)]
-[(https://nexus.fusion.proxy.mooo.com/)]
-[(https://nexus.fusion.proxy.crabdance.com/)]
-[(https://nexus.fusion.proxy.dob.jp/)]
-[(https://selenite.skys.day/)]
-[(https://nexus.fusion.proxy.us.to/)]
-[(https://nexus.fusion.proxy.uk.to/)]
-[(https://nexus.fusion.proxy.privatedns.org/)]
-[(https://nexus.fusion.proxy.mine.bz/)]
-[(https://nexus.fusion.proxy.ftp.sh/)]
-[(https://nexus.fusion.proxy.undo.it/)]
-[(https://sermon.sunday.glenwaverleychurches.org/)]
-[(https://learn.us.betal.org/)]
-[(https://xn--9ckaa.remont-tovar.ru/)]
-[(https://wikipedia-org.xn--c-sga.eu/)]
-[(https://api.a28.info/)]
-[(https://media.random-domain.org/)]
-[(http://index.jezicnistudio.hr/)]
-[(https://ela.map.wilgaskin.com/)]
-[(https://room.bjbk.org/)]
-[(https://roam.lamagdeleine.com/)]
-[(https://root.minecraft.pe/)]
-[(https://rose.prins.org.za/)]
-[(https://rock.wizmart.biz/)]
-[(https://nobody.bestar.sg/)]
-[(https://boringsuit.monkeystands.chines.chimmychurry.com/)]
-[(https://bothsides.gotoinfo.ch/)]
-[(https://feelnle.starnightimport.com/)]
-[(https://specialneeding.thebookllc.com/ )]
-[(https://whenthecompanyislethal.photo-frame.com/)]
-[(https://bubbo.is-really.pro/)]
-[(https://bubboismyfatherfigure.interstellareducation.pro/)]
+1. [(https://nexus.fusion.proxy.ignorelist.com/)]
+
+2. [(https://nexus.fusion.proxy.mooo.com/)]
+
+3. [(https://nexus.fusion.proxy.crabdance.com/)]
+
+4. [(https://nexus.fusion.proxy.dob.jp/)]
+
+5. [(https://selenite.skys.day/)]
+
+6. [(https://nexus.fusion.proxy.us.to/)]
+
+7. [(https://nexus.fusion.proxy.uk.to/)]
+
+8. [(https://nexus.fusion.proxy.privatedns.org/)]
+
+9. [(https://nexus.fusion.proxy.mine.bz/)]
+
+10. [(https://nexus.fusion.proxy.ftp.sh/)]
+
+11. [(https://nexus.fusion.proxy.undo.it/)]
+
+12. [(https://sermon.sunday.glenwaverleychurches.org/)]
+
+13. [(https://learn.us.betal.org/)]
+
+14. [(https://xn--9ckaa.remont-tovar.ru/)]
+
+15. [(https://wikipedia-org.xn--c-sga.eu/)]
+
+16. [(https://api.a28.info/)]
+
+17. [(https://media.random-domain.org/)]
+
+18. [(http://index.jezicnistudio.hr/)]
+
+19. [(https://ela.map.wilgaskin.com/)]
+
+20. [(https://room.bjbk.org/)]
+
+21. [(https://roam.lamagdeleine.com/)]
+
+22. [(https://root.minecraft.pe/)]
+
+23. [(https://rose.prins.org.za/)]
+
+24. [(https://rock.wizmart.biz/)]
+
+25. [(https://nobody.bestar.sg/)]
+
+26. [(https://boringsuit.monkeystands.chines.chimmychurry.com/)]
+
+27. [(https://bothsides.gotoinfo.ch/)]
+
+28. [(https://feelnle.starnightimport.com/)]
+
+29. [(https://specialneeding.thebookllc.com/ )]
+
+30. [(https://whenthecompanyislethal.photo-frame.com/)]
+
+31. [(https://bubbo.is-really.pro/)]
+
+32. [(https://bubboismyfatherfigure.interstellareducation.pro/)]
